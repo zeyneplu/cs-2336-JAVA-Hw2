@@ -1,5 +1,6 @@
 # cs-2336-JAVA-Hw2
-Module 5 and 6. 
+Covers Module 5 and 6. 
+
 Module5: Object-Oriented Programming Concepts & UML Class Diagram
 Week5
 Object-Oriented Programming Concepts & UML Class Diagram
@@ -16,6 +17,7 @@ final keyword (classes, methods, variables)
 UML Class Diagram
 Module5 will cover ch9, ch10 the Daniel Liang book!
 Content Folder
+
 Module6: Interfaces and InheritanceModule6: Interfaces and Inheritance
 Week6
 Objectives
